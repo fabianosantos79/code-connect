@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      Olá mundo
+      Olá mundo, tudo bem por aí?
     </main>
   );
 }
